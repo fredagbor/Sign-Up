@@ -58,6 +58,6 @@ h4{
 
 @media (max-width: 489px) {
     .container{
-        width: fit-content;
+        width: 300px;
     }
 }
