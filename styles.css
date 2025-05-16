@@ -55,3 +55,9 @@ a{
 h4{
     font-weight: lighter;
 }
+
+@media (max-width: 489px) {
+    .container{
+        width: fit-content;
+    }
+}
